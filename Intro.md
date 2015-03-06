@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES101: Marketing Fundamentals"
+course_description: "An introduction to the basic elements of marketing for businesses and nonprofit organizations."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "SALES101: Marketing Fundamentals"
 ------------------------------------------------------
 

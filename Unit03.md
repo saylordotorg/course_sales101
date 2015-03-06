@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES101: Marketing Fundamentals"
+course_description: "An introduction to the basic elements of marketing for businesses and nonprofit organizations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Promotions** <span id="3"></span> 
 *Simply put, promotions are all about how a company or organization
 communicates with its customers about its products and/or services—that

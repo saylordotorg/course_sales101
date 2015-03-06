@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES101: Marketing Fundamentals"
+course_description: "An introduction to the basic elements of marketing for businesses and nonprofit organizations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Developing and Managing Products** <span id="4"></span> 
 *Other important components of the marketing process include the
 development and management of products and services. Such management

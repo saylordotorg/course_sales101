@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES101: Marketing Fundamentals"
+course_description: "An introduction to the basic elements of marketing for businesses and nonprofit organizations."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Customer Relationship Management** <span id="5"></span> 
 *Identifying who a company’s potential customers might be and how a
 company maintains its relationships with these customers are two very

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES101: Marketing Fundamentals"
+course_description: "An introduction to the basic elements of marketing for businesses and nonprofit organizations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Understanding Customers, Target Marketing, and Market
 Segmentation** <span id="2"></span> 
 *When an organization thinks about marketing as a transaction—that is,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES101: Marketing Fundamentals"
+course_description: "An introduction to the basic elements of marketing for businesses and nonprofit organizations."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Marketing and Society** <span id="1"></span> 
 
 *Marketing is the process of creating products and services that meet
