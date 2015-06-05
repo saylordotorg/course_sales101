@@ -170,4 +170,10 @@ each resource box. Reading:
 Marketing](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf)*
 (PDF)  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/sales101/Unit01/)
+- [Unit 2](https://legacy.saylor.org/sales101/Unit02/)
+- [Unit 3](https://legacy.saylor.org/sales101/Unit03/)
+- [Unit 4](https://legacy.saylor.org/sales101/Unit04/)
+- [Unit 5](https://legacy.saylor.org/sales101/Unit05/)
