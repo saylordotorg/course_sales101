@@ -48,7 +48,7 @@ Upon successful completion of this unit, you will be able to: 
 -   **Reading: *Principles of Marketing*: “Chapter 1: What Is
     Marketing?”**
     Link: *Principles of Marketing*: [“Chapter 1: What Is
-    Marketing?”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Marketing?”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
       
      Instructions: Read this chapter, which defines the four components
     (or *the four Ps*) of marketing, provides examples of marketing
@@ -101,7 +101,7 @@ Upon successful completion of this unit, you will be able to: 
 -   **Reading: *Principles of Marketing*: “Chapter 2: Strategic
     Planning”**
     Link: *Principles of Marketing*: [“Chapter 2: Strategic
-    Planning”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Planning”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
       
      Instructions: Read this chapter, which describes the strategic
     planning process of marketing. Planning is a critical component of
@@ -126,7 +126,7 @@ Upon successful completion of this unit, you will be able to: 
 -   **Reading: *Principles of Marketing*: “Chapter 16: The Marketing
     Plan”**
     Link: *Principles of Marketing*: [ “Chapter 16: The Marketing
-    Plan”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Plan”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which provides you with an
     in-depth look at the planning that is necessary to launch a
@@ -149,7 +149,7 @@ Upon successful completion of this unit, you will be able to: 
     and Marketing Ethics”**
     Link: The Saylor Foundation: Dr. Steven Van Hook’s [“Business and
     Marketing
-    Ethics”](http://www.saylor.org/site/wp-content/uploads/2012/12/BUS2036.1.pdf) (PDF)  
+    Ethics”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/BUS2036.1.pdf) (PDF)  
         
      Instructions: Read this article on business and marketing ethics in
     the global marketplace. Be sure to pay a visit to the Center for the

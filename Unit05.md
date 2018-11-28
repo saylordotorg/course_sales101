@@ -50,7 +50,7 @@ Upon successful completion of this unit, you will be able to:
     Satisfaction, Loyalty, and Empowerment”**
     Link: *Principles of Marketing*: [“Chapter 14: Customer
     Satisfaction, Loyalty, and
-    Empowerment”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Empowerment”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which discusses the importance of
     the customer-relationship maintenance process and the concepts of
