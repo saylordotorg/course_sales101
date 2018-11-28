@@ -53,7 +53,7 @@ Upon successful completion of this unit, you will be able to:
     Managing Offerings”**
     Link: *Principles of Marketing*: [“Chapter 7: Developing and
     Managing
-    Offerings”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Offerings”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which discusses how a company
     develops and manages new product offerings. Please pay special
@@ -78,7 +78,7 @@ Upon successful completion of this unit, you will be able to:
     Channels To Create Value for Customers”**
     Link: *Principles of Marketing*: [“Chapter 8: Using Marketing
     Channels To Create Value for
-    Customers”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Customers”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which explains the concepts of
     *direct marketing channels* and *indirect marketing channels*.
@@ -105,7 +105,7 @@ Upon successful completion of this unit, you will be able to:
     Chains To Create Value for Customers”**
     Link: *Principles of Marketing*: [“Chapter 9: Using Supply Chains To
     Create Value for
-    Customers”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Customers”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter. A supply chain is the network of
     resources that includes all the steps that take a product from its
@@ -132,7 +132,7 @@ Upon successful completion of this unit, you will be able to:
     Revenue Generator”**
     Link: *Principles of Marketing*: [“Chapter 15: Price, the Only
     Revenue
-    Generator”](http://www.saylor.org/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Generator”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which explores the marketing
     concept of *price*. There are a number of methods that companies can
