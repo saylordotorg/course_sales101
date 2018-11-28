@@ -81,7 +81,7 @@ computer;
  √    have competency in the English language; and  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -93,7 +93,7 @@ online educational materials, with primary use of the following
 materials:
 
 -   *[Principles of
-    Marketing](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) *  
+    Marketing](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) *  
       
 -   Dr. Steven Van Hook’s [How-To Marketing](http://howtomarketing.us/)
     Online Resource
@@ -168,7 +168,7 @@ specific sections of the text that are assigned as you progress through
 each resource box. Reading:  
  *[  
  Principles of
-Marketing](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf)*
+Marketing](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf)*
 (PDF)  
   
 **Table of Contents:** You can find the course's units at the links below.

@@ -39,7 +39,7 @@ Upon successful completion of this unit, you will be able to:
     Landscape”**
     Link: *Principles of Marketing*: [“Chapter 11: Advertising,
     Integrated Marketing Communications, and the Changing Media
-    Landscape”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Landscape”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which discusses the different
     methods of communication that are used by businesses to reach
@@ -85,7 +85,7 @@ Upon successful completion of this unit, you will be able to:
     and Sales Promotions”**
     Link: *Principles of Marketing*: [“Chapter 12: Public Relations and
     Sales
-    Promotions”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Promotions”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which explores the public
     relations and promotional tactics that businesses use during the
@@ -147,7 +147,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Marketing*: “Chapter 13: Professional
     Selling”**
     Link: *Principles of Marketing*: [“Chapter 13: Professional
-    Selling”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Selling”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
         
      Instructions: Read this chapter, which discusses the role of
     *professional selling* during the marketing process. Salespeople use

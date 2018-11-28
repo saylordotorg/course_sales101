@@ -54,7 +54,7 @@ Upon successful completion of this unit, you will be able to:
     How People Make Buying Decisions”**
     Link: *Principles of Marketing*: [“Chapter 3: Consumer Behavior: How
     People Make Buying
-    Decisions”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Decisions”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
       
      Instructions: Read this chapter, which discusses a consumer’s
     decision-making process and examines the situational, personal,
@@ -100,7 +100,7 @@ Upon successful completion of this unit, you will be able to:
     Targeting, and Positioning”**
     Link: *Principles of Marketing*: [“Chapter 5: Market Segmenting,
     Targeting, and
-    Positioning”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Positioning”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
       
      Instructions: Read this chapter. You will learn more about *mass
     marketing *and *targeted marketing*, two distinct types of marketing
@@ -126,7 +126,7 @@ Upon successful completion of this unit, you will be able to:
     Using Information: Marketing Research and Market Intelligence”**
     Link: *Principles of Marketing*: [“Chapter 10: Gathering and Using
     Information: Marketing Research and Market
-    Intelligence”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
+    Intelligence”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Marketing.pdf) (PDF)  
       
      Instructions: Read this chapter, which explores marketing research
     techniques, the concept of *market intelligence*, and the
